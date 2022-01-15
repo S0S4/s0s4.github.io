@@ -1,0 +1,59 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>S0S4's blog</title>
+  <subtitle>A simply blog where I will be uploading  interesing things, undiscovered things.</subtitle>
+  <updated>2022-01-15T01:28:31+01:00</updated>
+  <author>
+    <name>s0s4</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+  <rights> © 2022 s0s4 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>CRTP Course Overview [ESP/ENG]</title>
+    <link href="http://localhost:4000/posts/CRTPOverview/" rel="alternate" type="text/html" title="CRTP Course Overview [ESP/ENG]" />
+    <published>2022-01-13T00:00:00+01:00</published>
+  
+    <updated>2022-01-13T00:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/CRTPOverview/</id>
+    <content src="http://localhost:4000/posts/CRTPOverview/" />
+    <author>
+      <name>s0s4</name>
+    </author>
+
+  
+    
+    <category term="CRTP" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Introducción
+
+Como un red teamer o como un pentester, seguramente en alguna auditaria nos tocara enfrentarnos a un entorno de Directorio Activo. Alrededor del 95% de las 500 empresas de la lista Fortune utilizan este tipo de entornos, debido a que permite un control centralizado de la red, asi como manejar la autenticación y autorización de servidores. Realmente es bastante complejo tener un di...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
