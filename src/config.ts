@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "S0S4's Blog",
-	subtitle: "⚑",
+	subtitle: "Vulnerability Research · Reverse Engineering · OS Internals",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 265, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -49,8 +49,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/FOTONN.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "S0S4",
-	bio: "Security Researcher wannabe",
+	name: "Ivan Redondo / S0S4",
+	bio: "Security Researcher",
 	links: [
 		{
 			name: "Twitter",
@@ -63,6 +63,11 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/s0s4",
+		},
+		{
+			name: "LinkedIn",
+			icon: "fa6-brands:linkedin",
+			url: "https://www.linkedin.com/in/ivanredondosec/",
 		},
 	],
 };

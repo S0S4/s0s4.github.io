@@ -1,8 +1,12 @@
 ---
-title: Placeholder
-published: 2026-05-31
-description: This is a placeholder post for the blog.
-tags: [Foo, Bar]
-draft: false
+title: "Relocation Revelation: Unpacking the Secrets of ELF"
+description: "A deep dive into ELF relocations, GOT/PLT, dynamic linking and exploitation."
+category: "Research"
+tags: ["ELF", "Linux"]
 ---
-# Placeholder
+
+Published in tmp.0ut Volume 4.
+
+[Read the full article →](https://tmpout.sh/4/4.html)
+
+Related tooling: [RelocDoctor](https://github.com/S0S4/RelocDoctor)
