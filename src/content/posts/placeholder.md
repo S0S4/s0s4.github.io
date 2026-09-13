@@ -1,5 +1,6 @@
 ---
 title: "Relocation Revelation: Unpacking the Secrets of ELF"
+published: 2026-09-13
 description: "A deep dive into ELF relocations, GOT/PLT, dynamic linking and exploitation."
 category: "Research"
 tags: ["ELF", "Linux"]
